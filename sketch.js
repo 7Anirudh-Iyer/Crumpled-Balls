@@ -27,6 +27,7 @@ function setup(){
 
     w1=new Boxy(windowWidth,windowHeight/2,20,10000)
     w2=new Boxy(0,windowHeight/2,20,10000)
+    w3=new Boxy(windowWidth/2,0,10000,20)
 
 }
 
